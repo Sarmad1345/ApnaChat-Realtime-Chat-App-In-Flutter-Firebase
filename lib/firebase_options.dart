@@ -47,31 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBeszZHLYJNyjUhpujMH9yZ4ol9JqsAmPU',
-    appId: '1:288842837392:android:1353619813061d867a5715',
-    messagingSenderId: '288842837392',
-    projectId: 'we-chat-75f13',
-    storageBucket: 'we-chat-75f13.appspot.com',
+    apiKey: 'AIzaSyA82Q522MlSXJ36x9ZsUEf2KPN16ibnP-s',
+    appId: '1:15157883302:android:f8dadf1d66543de2e61f67',
+    messagingSenderId: '15157883302',
+    projectId: 'chatapp-d3786',
+    storageBucket: 'chatapp-d3786.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCCYZoZ5DvuitZJ7qK5iWM3ARHBDoFFriY',
-    appId: '1:288842837392:ios:f39c8dc31525a6687a5715',
-    messagingSenderId: '288842837392',
-    projectId: 'we-chat-75f13',
-    storageBucket: 'we-chat-75f13.appspot.com',
-    androidClientId: '288842837392-gse3j6u9fferoav9leh2ik3468asfeup.apps.googleusercontent.com',
-    iosClientId: '288842837392-sgib97u6439i4jte3bo19u00fh663euu.apps.googleusercontent.com',
+    apiKey: 'AIzaSyB-os84YZWxrrsXkNvtcbsBF2N8Rg0p51A',
+    appId: '1:15157883302:ios:753c540b1b448da1e61f67',
+    messagingSenderId: '15157883302',
+    projectId: 'chatapp-d3786',
+    storageBucket: 'chatapp-d3786.firebasestorage.app',
     iosBundleId: 'com.harshRajpurohit.weChat',
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBW-1MjB067GUwQHPnYmWkr_4iMz13UgRs',
-    appId: '1:288842837392:web:6ae5bafc6d7d4f407a5715',
-    messagingSenderId: '288842837392',
-    projectId: 'we-chat-75f13',
-    authDomain: 'we-chat-75f13.firebaseapp.com',
-    storageBucket: 'we-chat-75f13.appspot.com',
+    apiKey: 'AIzaSyBoH5xLzUnPdfuC1kguGOowGRsw-x2ItWU',
+    appId: '1:15157883302:web:2c4a43771995d85be61f67',
+    messagingSenderId: '15157883302',
+    projectId: 'chatapp-d3786',
+    authDomain: 'chatapp-d3786.firebaseapp.com',
+    storageBucket: 'chatapp-d3786.firebasestorage.app',
+    measurementId: 'G-C2TZC44FL2',
   );
 
 }
